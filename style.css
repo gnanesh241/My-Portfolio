@@ -555,6 +555,7 @@
 
   .home3text {
     padding-top: 80px;
+    
   }
 
   .img-label img {
@@ -593,6 +594,7 @@
 
 .home3text {
   padding-bottom: 80px;
+  text-align: center;
 }
 
 .home3 {
@@ -612,7 +614,7 @@
 .container3 {
   display: grid;
   grid-template-columns: 0.5fr 1fr 1fr 0.5fr;
-  grid-template-rows: 0.2fr 1fr 2fr 2fr 2fr 2fr 0.5fr;
+  /* grid-template-rows: 0.2fr 1fr 2fr 2fr 2fr 2fr 0.5fr; */
   grid-auto-columns: 1fr;
   gap: 42px 0px;
   grid-auto-flow: row;
